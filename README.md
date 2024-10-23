@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate **Computer Scientist** with a kee
 ## 📫 How to Reach Me
 
 - Email: [trihermtech@gmail.com](mailto:trihermtech@gmal.com)
-- LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/companytriherm-tech](https://www.linkedin.com/company/triherm-tech))
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/company/triherm-tech)
 
 ## 🤝 Let's Connect!
 
